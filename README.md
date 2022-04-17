@@ -24,7 +24,7 @@ Website - HTML,CSS,JAVASCRIPT
 
 ![ML4](https://user-images.githubusercontent.com/75796904/163709631-48556c74-4122-4d06-9da5-862712b905b3.png)
 
-- So after creating the machine learning model now, we integrate our final pickel file of the machine learning model with the webpage to show whether the site is phishing or not. So we use the website to print the output.
+- So after creating the machine learning model now, we integrate our final pickel file of the machine learning model with the webpage to show whether the site is phishing or not. So we use the website to print the output of the prediction.
 
 ![ML1](https://user-images.githubusercontent.com/75796904/163709648-2a04184a-f0fe-42e6-8249-ab190f91a2a7.png)
 
